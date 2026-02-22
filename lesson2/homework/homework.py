@@ -1,13 +1,16 @@
 # Homework Problem 1
 # Ask the user for two numbers.
 # Print their quotient and remainder on separate lines.
-
-
-
+user_input = input("give me an interger:")
+user_inputzwei = input("give me an interger:")
+number = int(user_input)
+numberzwei = int(user_inputzwei)
+print("quotient:", number/numberzwei)
+print("remainder:", number - (numberzwei * (number//numberzwei)))
 # Homework Problem 2
 # Ask the user for their favorite animal and favorite color.
 # Print a sentence combining them like: "A blue tiger would be awesome!"
-
+#user_inputdrei
 
 
 # Homework Problem 3
