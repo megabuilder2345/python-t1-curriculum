@@ -10,9 +10,9 @@ print("remainder:", number - (numberzwei * (number//numberzwei)))
 # Homework Problem 2
 # Ask the user for their favorite animal and favorite color.
 # Print a sentence combining them like: "A blue tiger would be awesome!"
-#user_inputdrei
-
-
+user_inputdrei=input("What is your favorite animal: ")
+user_inputvier=input("What is your favorite color: ")
+print("A",user_inputvier, user_inputdrei, "would be awesome!")
 # Homework Problem 3
 # Use a for loop to print all the even numbers from 0 to 10 (including 10).
 
@@ -21,9 +21,9 @@ print("remainder:", number - (numberzwei * (number//numberzwei)))
 # Homework Problem 4
 # Ask the user how many push-ups they can do.
 # Multiply it by 7 and print how many they could do in a week.
-
-
-
+user_inputfunf=input("How many push-ups can you do? ")
+numberdrei=int(user_inputfunf)
+print("you can do", numberdrei*7, "in a week!")
 # Homework Problem 5
 # Use a for loop to print the square of each number from 1 to 6.
 # (Example: 1*1=1, 2*2=4, etc.)
