@@ -2,8 +2,12 @@
 # Ask user for two test scores.
 # If BOTH scores are at least 50, print "You passed both!"
 # Otherwise, print "You failed at least one."
-
-
+user_input=int(input("what was your test score "))
+user_inpu2=int(input("what was your other test score "))
+if user_input >= 50 and user_inpu2 >=50:
+    print("You passed both!")
+else:
+    print("you failed at least one.")
 
 # Problem 2
 # Ask user if they brought lunch and water (yes/no).

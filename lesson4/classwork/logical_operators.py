@@ -17,7 +17,7 @@ else:
 print("bus check complete.")
 
 homework_done=input("did you do you do your homework? (yes/no) ")
-if not homework_done=="yes:" #NOT : flips true to false and false to true
+if not homework_done=="yes": #NOT : flips true to false and false to true
     print("Go finish your homework!")
 else:
     print("good job! you're all done.")
