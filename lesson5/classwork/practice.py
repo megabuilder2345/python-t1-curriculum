@@ -4,7 +4,10 @@ import random
 # Create a list of 4 car brands.
 # Print the first and last.
 # Then add another brand using append() and print the updated list.
-
+carBrands=["farrari", "cadilac", "mclaren", "redbull oracle"]
+print(carBrands)
+carBrands.append("racing bulls")
+print(carBrands)
 
 
 # Problem 2

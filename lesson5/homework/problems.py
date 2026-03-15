@@ -7,11 +7,12 @@ import random
 
 
 
+
 # Problem 2
 # Create a list of 4 school subjects.
 # Print the second subject.
 # Then sort them alphabetically and print the result.
-
+list.sort()
 
 
 # Problem 3 
@@ -21,10 +22,10 @@ import random
 
 
 
-# Problem 4 
-# Create a list of 2 programming languages.
-# Print a random one.
-# Then append another language and print the list.
+            #ignore!!!!!    # Problem 4 
+                    # Create a list of 2 programming languages.
+                    # Print a random one.
+                  # Then append another language and print the list.
 
 
 
