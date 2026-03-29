@@ -17,7 +17,7 @@ for i in range(len(animals)):
     if item == "cat":
         counter2 = counter2 +1 # if it is "cat", add 1 to the counter
 
-if found== True:
+if found ==True:
     print("found apple at index", index)
 else:
     print("no apples in list")
